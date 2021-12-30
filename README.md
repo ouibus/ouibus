@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ouibus
-- 👀 I’m interested in games and music
-- 🌱 I’m arning .currently le..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 i am trying to learn something new in code. love music, and games.
+- 🌱 i am learning pyhton and html/css/javascript 
+- 📫 you can reach me with my email sophietaler@gmail.com
 
 <!---
 ouibus/ouibus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
